@@ -49,6 +49,4 @@ public class Solution {
         generate(i + 1, end, sum + arr[i], listOfSubsetSums);
         generate(i + 1, end, sum, listOfSubsetSums);
     }
-} {
-    
 }
